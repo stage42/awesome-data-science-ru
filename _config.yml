@@ -1,0 +1,8 @@
+title: Awesome-data-science-ru
+description: Наука о данных
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
